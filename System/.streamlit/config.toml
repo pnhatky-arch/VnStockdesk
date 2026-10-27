@@ -1,0 +1,7 @@
+# VnStockDesk uses several independently updating fragments and large charts.
+# Streamlit's ForwardMsg reference cache can retain a client-side hash across a
+# server restart and then raise "Cached ForwardMsg MISS".  Setting a very high
+# minimum disables only that transport optimisation; application/data caches
+# remain enabled.
+[global]
+minCachedMessageSize = 1000000000000

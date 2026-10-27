@@ -1,0 +1,3 @@
+#!/bin/zsh
+"/Users/phamgia/Downloads/VN100_ANALYSIS_SYSTEM_TRADINGVIEW_UI_FLAT/.venv/bin/python" "/Users/phamgia/Documents/Codex/2026-08-22/files-mentioned-by-the-user-vn100/VN100_ANALYSIS_SYSTEM_TRADINGVIEW_UI_FLAT/desktop_launcher.py" >/dev/null 2>&1 &
+exit 0

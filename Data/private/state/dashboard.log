@@ -1,0 +1,71 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8503
+  Network URL: http://192.168.1.13:8503
+  External URL: http://27.74.11.155:8503
+
+2026-08-29 16:27:25.146 Uncaught app execution
+Traceback (most recent call last):
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py", line 129, in exec_func_with_error_handling
+    result = func()
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 689, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\app.py", line 10, in <module>
+    import numpy as np
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\numpy\__init__.py", line 298, in <module>
+    _core.getlimits._register_known_types()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\numpy\_core\getlimits.py", line 235, in _register_known_types
+    float128_ma = MachArLike(ld,
+                             machep=-112,
+    ...<10 lines>...
+                             huge=huge_f128,
+                             tiny=tiny_f128)
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\numpy\_core\getlimits.py", line 53, in __init__
+    self.precision = int(-log10(self.eps))
+                     ~~~^^^^^^^^^^^^^^^^^^
+OverflowError: cannot convert longdouble infinity to integer
+2026-08-29 16:42:49.666 Uvicorn server started on :::8503
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8503
+  Network URL: http://192.168.1.13:8503
+  External URL: http://27.74.11.155:8503
+
+2026-08-29 16:42:56.513 The widget with key "system_operation_mode" was created with a default value but also had its value set via the Session State API.
+Stack (most recent call last):
+  File "C:\Users\BaoLong\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1015, in _bootstrap
+    self._bootstrap_inner()
+  File "C:\Users\BaoLong\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 1044, in _bootstrap_inner
+    self.run()
+  File "C:\Users\BaoLong\AppData\Local\Programs\Python\Python313\Lib\threading.py", line 995, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 417, in _run_script_thread
+    self._run_script(request.rerun_data)
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 862, in _run_script
+    ) = exec_func_with_error_handling(code_to_exec, ctx)
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py", line 136, in exec_func_with_error_handling
+    result = func()
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 837, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\app.py", line 214, in <module>
+    st.segmented_control(
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\runtime\metrics_util.py", line 628, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\elements\widgets\button_group.py", line 994, in segmented_control
+    return self._internal_button_group(
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\runtime\metrics_util.py", line 628, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\elements\widgets\button_group.py", line 1143, in _internal_button_group
+    result: RegisterWidgetResult[Any] = self._button_group(
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\elements\widgets\button_group.py", line 1237, in _button_group
+    check_widget_policies(self.dg, key, on_change, default_value=_default)
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\elements\lib\policies.py", line 143, in check_widget_policies
+    check_session_state_rules(
+  File "C:\Users\BaoLong\AppData\Local\VnStockDesk\runtime\.venv\Lib\site-packages\streamlit\elements\lib\policies.py", line 89, in check_session_state_rules
+    _LOGGER.warning(
+2026-08-29 16:43:09 - vnstock.explorer.vci.quote - INFO - Converted derivative symbol VN30F1M to 41I1G9000 (KRX format)
+2026-08-29 16:43:21 - vnstock.explorer.kbs.trading - INFO - Converted derivative symbol VN30F1M to 41I1G9000 (KRX format)

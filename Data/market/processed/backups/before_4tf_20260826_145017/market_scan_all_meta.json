@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-08-22T16:23:26.914164",
+  "universe": 1525,
+  "analyzed": 1396,
+  "errors": 129,
+  "duration_seconds": 10197.4,
+  "refresh": false,
+  "news_daily_update": true,
+  "scope": "ALL",
+  "scope_label": "Toàn thị trường",
+  "rescored_at": "2026-08-23T08:40:07.362738",
+  "engine_version": "PRO_DECISION_V3",
+  "quality_counts": {
+    "WATCH": 796,
+    "GOOD": 493,
+    "REJECT": 107
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "balance_vnd": 983759999.9999998,
+  "side": "LONG",
+  "quantity": 8,
+  "entry_price": 1976.7,
+  "last_price": 1971.2,
+  "stop_loss": 1971.1,
+  "target": 1981.9,
+  "target_2": 1985.9,
+  "target_1_done": false,
+  "orders": [
+    {
+      "time": "2026-08-24T03:14:51.581500+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1947.2,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T03:55:23.347449+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 9,
+      "price": 1940.6,
+      "pnl_vnd": -5940000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T04:10:26.372024+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1942.2,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T06:11:59.459136+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1947.3,
+      "pnl_vnd": 2040000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T06:35:19.086478+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 5,
+      "price": 1941.6,
+      "pnl_vnd": -300000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T06:51:04.743888+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1942.2,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T07:28:00.404060+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 9,
+      "price": 1942.5,
+      "pnl_vnd": 270000,
+      "reason": "END_OF_DAY",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T02:15:53.843328+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1948.9,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T02:27:26.059928+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1954.2,
+      "pnl_vnd": 2120000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T06:23:12.931683+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 5,
+      "price": 1940.1,
+      "pnl_vnd": -4400000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T06:30:11.031547+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1943.1,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T07:03:59.392424+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 9,
+      "price": 1934.4,
+      "pnl_vnd": -7830000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T07:09:17.080679+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1943.8,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T07:25:02.395724+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 8,
+      "price": 1942.9,
+      "pnl_vnd": -720000,
+      "reason": "END_OF_DAY",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T02:40:30.310839+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1947.9,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T03:16:31.252181+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 8,
+      "price": 1941.8,
+      "pnl_vnd": -4880000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T03:20:40.074425+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1942.8,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T04:02:19.040313+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 8,
+      "price": 1935.9,
+      "pnl_vnd": -5520000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T04:12:57.002185+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1939.5,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T06:18:58.956309+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1945.1,
+      "pnl_vnd": 2240000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T06:50:54.853999+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1962.1,
+      "pnl_vnd": 9040000,
+      "reason": "TARGET_2",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-27T02:06:16.170661+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1974.9,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T01:59:44.807679+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 8,
+      "price": 1962.0,
+      "pnl_vnd": -10320000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T02:30:21.505004+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1977.6,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T06:04:43.444935+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1982.6,
+      "pnl_vnd": 2000000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T06:20:04.714380+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1974.5,
+      "pnl_vnd": -1240000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T06:50:41.683698+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1977.7,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T07:21:27.623466+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1987.4,
+      "pnl_vnd": 3880000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T07:36:48.408314+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1986.0,
+      "pnl_vnd": 3320000,
+      "reason": "END_OF_DAY",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-09T02:46:33.070874+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1976.7,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    }
+  ],
+  "day": "2026-09-09",
+  "day_start_equity_vnd": 983759999.9999998,
+  "trades_today": 1,
+  "capital_adjustments": []
+}

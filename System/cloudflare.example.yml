@@ -1,0 +1,9 @@
+# Copy this file outside System, replace the placeholders, and keep credentials private.
+tunnel: YOUR_TUNNEL_UUID
+credentials-file: C:\Users\YOUR_USER\.cloudflared\YOUR_TUNNEL_UUID.json
+ingress:
+  - hostname: stocks.example.com
+    service: http://127.0.0.1:8503
+    originRequest:
+      connectTimeout: 30s
+  - service: http_status:404

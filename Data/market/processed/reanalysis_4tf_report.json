@@ -1,0 +1,11 @@
+{
+  "symbols": 1396,
+  "analyzed": 1396,
+  "errors": {},
+  "backup": "/Users/phamgia/Documents/Codex/2026-08-22/files-mentioned-by-the-user-vn100/VN100_ANALYSIS_SYSTEM_TRADINGVIEW_UI_FLAT/data/processed/backups/before_4tf_20260826_145017",
+  "files": [
+    "/Users/phamgia/Documents/Codex/2026-08-22/files-mentioned-by-the-user-vn100/VN100_ANALYSIS_SYSTEM_TRADINGVIEW_UI_FLAT/data/processed/market_scan_all.csv",
+    "/Users/phamgia/Documents/Codex/2026-08-22/files-mentioned-by-the-user-vn100/VN100_ANALYSIS_SYSTEM_TRADINGVIEW_UI_FLAT/data/processed/vn100_scan.csv",
+    "/Users/phamgia/Documents/Codex/2026-08-22/files-mentioned-by-the-user-vn100/VN100_ANALYSIS_SYSTEM_TRADINGVIEW_UI_FLAT/data/processed/vn30_scan.csv"
+  ]
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1787718186.858312-ALL-TRC-MAX_POSITIONS",
+    "time": "2026-08-26T04:23:06.858312+00:00",
+    "scope": "ALL",
+    "symbol": "TRC",
+    "code": "MAX_POSITIONS",
+    "reason": "Đã đạt giới hạn 5 vị thế; bỏ qua lệnh mua.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1787725544.735795-ALL-TRC-MAX_POSITIONS",
+    "time": "2026-08-26T06:25:44.735795+00:00",
+    "scope": "ALL",
+    "symbol": "TRC",
+    "code": "MAX_POSITIONS",
+    "reason": "Đã đạt giới hạn 5 vị thế; bỏ qua lệnh mua.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1787730562.810740-ALL-TRC-MAX_POSITIONS",
+    "time": "2026-08-26T07:49:22.810740+00:00",
+    "scope": "ALL",
+    "symbol": "TRC",
+    "code": "MAX_POSITIONS",
+    "reason": "Đã đạt giới hạn 5 vị thế; bỏ qua lệnh mua.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1787759455.877880-ALL-TRC-MAX_POSITIONS",
+    "time": "2026-08-26T15:50:55.877880+00:00",
+    "scope": "ALL",
+    "symbol": "TRC",
+    "code": "MAX_POSITIONS",
+    "reason": "Đã đạt giới hạn 5 vị thế; bỏ qua lệnh mua.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788487639.143660-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T02:07:19.143660+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788489688.331600-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T02:41:28.331600+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788491622.859433-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T03:13:42.859433+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788493557.646050-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T03:45:57.646050+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788495495.845706-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T04:18:15.845706+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788497427.608941-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T04:50:27.608941+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788499366.712299-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T05:22:46.712299+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788501301.473032-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T05:55:01.473032+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788503237.325271-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T06:27:17.325271+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788505567.148957-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T07:06:07.148957+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788507783.344651-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T07:43:03.344651+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788510201.468086-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-04T08:23:21.468086+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788921927.321157-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-09T02:45:27.321157+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788923977.155420-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-09T03:19:37.155420+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788925946.817118-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-09T03:52:26.817118+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788927932.165137-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-09T04:25:32.165137+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788929904.161439-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-09T04:58:24.161439+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788931875.151197-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-09T05:31:15.151197+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788933849.111992-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-09T06:04:09.111992+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  },
+  {
+    "id": "1788935820.863258-VN100-VIC-RISK_OR_WEIGHT_LIMIT",
+    "time": "2026-09-09T06:37:00.863258+00:00",
+    "scope": "VN100",
+    "symbol": "VIC",
+    "code": "RISK_OR_WEIGHT_LIMIT",
+    "reason": "Lệnh 500 cổ phiếu vượt tỷ trọng hoặc hạn mức rủi ro cho phép.",
+    "severity": "WARNING"
+  }
+]

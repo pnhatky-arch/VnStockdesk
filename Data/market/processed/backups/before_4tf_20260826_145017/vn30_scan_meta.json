@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-08-22T13:28:02.828984",
+  "universe": 30,
+  "analyzed": 30,
+  "errors": 0,
+  "duration_seconds": 36.5,
+  "refresh": false,
+  "news_daily_update": true,
+  "scope": "VN30",
+  "scope_label": "VN30",
+  "rescored_at": "2026-08-23T08:37:33.021923",
+  "engine_version": "PRO_DECISION_4TF",
+  "quality_counts": {
+    "GOOD": 30
+  },
+  "timeframes": [
+    "1D",
+    "1W",
+    "1M",
+    "1Y"
+  ],
+  "reanalyzed_at": "2026-08-26T14:47:37.976240",
+  "reanalysis_mode": "LOCAL_OHLCV_ONLY"
+}

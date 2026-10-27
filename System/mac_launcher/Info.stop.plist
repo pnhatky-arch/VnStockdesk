@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleDevelopmentRegion</key><string>vi</string>
+  <key>CFBundleExecutable</key><string>VnStockDeskStop</string>
+  <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+  <key>CFBundleIdentifier</key><string>com.nhatkypham.vnstockdesk.stop</string>
+  <key>CFBundleName</key><string>STOP VnStockDesk</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleSignature</key><string>????</string>
+  <key>CFBundleVersion</key><string>2</string>
+  <key>CFBundleShortVersionString</key><string>2.0</string>
+  <key>LSMinimumSystemVersion</key><string>11.0</string>
+  <key>LSUIElement</key><true/>
+</dict></plist>

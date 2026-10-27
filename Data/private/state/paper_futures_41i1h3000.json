@@ -1,0 +1,85 @@
+{
+  "balance_vnd": 1074410000.0000002,
+  "side": "FLAT",
+  "quantity": 0,
+  "entry_price": 0.0,
+  "last_price": 1973.3,
+  "stop_loss": null,
+  "target": null,
+  "target_2": null,
+  "target_1_done": false,
+  "orders": [
+    {
+      "time": "2026-08-24T06:35:24.369875+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1938.5,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T07:28:06.711250+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 9,
+      "price": 1937.7,
+      "pnl_vnd": -720000,
+      "reason": "END_OF_DAY",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T02:22:14.670901+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1947.6,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T06:23:18.543431+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 9,
+      "price": 1937.5,
+      "pnl_vnd": -9090000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T06:56:23.164028+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1962.0,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T07:43:46.657995+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 8,
+      "price": 2069.3,
+      "pnl_vnd": 85840000,
+      "reason": "END_OF_DAY",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-27T02:06:24.003114+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1975.1,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T07:36:57.959332+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 9,
+      "price": 1973.3,
+      "pnl_vnd": -1620000,
+      "reason": "END_OF_DAY",
+      "status": "FILLED"
+    }
+  ],
+  "day": "2026-09-04",
+  "day_start_equity_vnd": 1074410000.0000002,
+  "trades_today": 0,
+  "capital_adjustments": []
+}

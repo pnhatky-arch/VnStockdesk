@@ -1,0 +1,25 @@
+{
+  "balance_vnd": 1000000000.0,
+  "side": "LONG",
+  "quantity": 8,
+  "entry_price": 1975.0,
+  "last_price": 1975.0,
+  "stop_loss": 1969.0,
+  "target": 1979.8,
+  "target_2": 1983.8,
+  "target_1_done": false,
+  "orders": [
+    {
+      "time": "2026-08-27T03:05:45.521034+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1975.0,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    }
+  ],
+  "day": "2026-08-27",
+  "day_start_equity_vnd": 1000000000.0,
+  "trades_today": 1,
+  "capital_adjustments": []
+}

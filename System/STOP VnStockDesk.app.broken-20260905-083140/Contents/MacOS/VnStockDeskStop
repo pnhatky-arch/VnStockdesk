@@ -1,0 +1,4 @@
+#!/bin/bash
+APP_DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
+RUNTIME_DIR="${VNSTOCKDESK_RUNTIME_DIR:-$HOME/Library/Application Support/VnStockDesk/runtime}"
+exec "$RUNTIME_DIR/.venv/bin/python" "$APP_DIR/desktop_launcher.py" --stop

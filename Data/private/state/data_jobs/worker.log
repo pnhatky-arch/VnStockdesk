@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\src\data_jobs.py", line 114, in run
+    save()
+    ~~~~^^
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\src\data_jobs.py", line 92, in save
+    job.update(values, updated_at=time.time()); atomic_json(self.path, job)
+                                                ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\src\local_io.py", line 24, in atomic_json
+    os.replace(name, path)
+    ~~~~~~~~~~^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied: 'C:\\Users\\BaoLong\\My Drive\\VnStockDesk\\Data\\private\\state\\data_jobs\\.write-hn04oap9' -> 'C:\\Users\\BaoLong\\My Drive\\VnStockDesk\\Data\\private\\state\\data_jobs\\current.json'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\data_init_worker.py", line 11, in <module>
+    job = manager.run(discover_tasks, perform_task)
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\src\data_jobs.py", line 118, in run
+    save(status="FAILED", message=f"{type(exc).__name__}: {str(exc)[:350]}")
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\src\data_jobs.py", line 92, in save
+    job.update(values, updated_at=time.time()); atomic_json(self.path, job)
+                                                ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\BaoLong\My Drive\VnStockDesk\System\src\local_io.py", line 24, in atomic_json
+    os.replace(name, path)
+    ~~~~~~~~~~^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied: 'C:\\Users\\BaoLong\\My Drive\\VnStockDesk\\Data\\private\\state\\data_jobs\\.write-3owenl68' -> 'C:\\Users\\BaoLong\\My Drive\\VnStockDesk\\Data\\private\\state\\data_jobs\\current.json'

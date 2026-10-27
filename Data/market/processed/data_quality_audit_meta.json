@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-08-23T11:27:12.672047",
+  "files": 1511,
+  "quality_counts": {
+    "WATCH": 796,
+    "GOOD": 493,
+    "REJECT": 222
+  },
+  "repaired_ohlc_rows": 5195,
+  "stale_over_7_days": 337,
+  "under_120_bars": 115
+}

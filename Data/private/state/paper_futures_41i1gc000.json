@@ -1,0 +1,163 @@
+{
+  "balance_vnd": 1014829999.9999999,
+  "side": "LONG",
+  "quantity": 9,
+  "entry_price": 1972.5,
+  "last_price": 1970.0,
+  "stop_loss": 1968.9,
+  "target": 1975.4,
+  "target_2": 1977.8,
+  "target_1_done": false,
+  "orders": [
+    {
+      "time": "2026-08-24T07:01:43.083055+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1932.9,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T07:12:11.478918+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1940.6,
+      "pnl_vnd": 3080000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-24T07:22:47.476937+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 5,
+      "price": 1931.5,
+      "pnl_vnd": -700000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T02:15:59.096173+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1941.9,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T02:27:31.275009+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1946.7,
+      "pnl_vnd": 1920000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T02:47:43.578393+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 5,
+      "price": 1950.9,
+      "pnl_vnd": 4500000,
+      "reason": "TARGET_2",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T03:03:26.832266+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1946.7,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T03:28:22.160704+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1953.6,
+      "pnl_vnd": 2760000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T06:23:16.618455+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 5,
+      "price": 1936.9,
+      "pnl_vnd": -4900000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T06:30:15.677714+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1942.3,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T07:04:02.582196+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 9,
+      "price": 1929.9,
+      "pnl_vnd": -11160000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T06:50:59.146330+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 8,
+      "price": 1958.9,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-26T07:43:45.115633+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 8,
+      "price": 1972.5,
+      "pnl_vnd": 10880000,
+      "reason": "END_OF_DAY",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T02:30:29.527655+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1969.5,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T03:01:09.768392+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 4,
+      "price": 1975.0,
+      "pnl_vnd": 2200000,
+      "reason": "TARGET_1_PARTIAL",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-04T07:21:35.662066+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 5,
+      "price": 1982.0,
+      "pnl_vnd": 6250000,
+      "reason": "TARGET_2",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-09-09T06:37:06.703252+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1972.5,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    }
+  ],
+  "day": "2026-09-09",
+  "day_start_equity_vnd": 1014829999.9999999,
+  "trades_today": 1,
+  "capital_adjustments": []
+}

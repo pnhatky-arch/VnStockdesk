@@ -1,0 +1,1 @@
+{"updated_at": 1787842273.037458, "mode": "PAPER_FUTURES_SCAN", "symbol": "ALL", "action": "SCAN_COMPLETE", "reason": "Đã quét 1/1 hợp đồng · 0 lệnh.", "orders": [], "price": 0.0, "scanned": 1, "total": 1, "actions": {"VN30F1M": "DATA_LOCK"}, "errors": [], "token": "8a55d817844ef94fcca76237c396e101"}

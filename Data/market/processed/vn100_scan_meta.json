@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-08-22T12:44:45.877385",
+  "universe": 100,
+  "analyzed": 100,
+  "errors": 0,
+  "duration_seconds": 1263.3,
+  "refresh": false,
+  "rescored_at": "2026-08-23T08:37:40.938770",
+  "engine_version": "PRO_DECISION_4TF",
+  "quality_counts": {
+    "GOOD": 100
+  },
+  "timeframes": [
+    "1D",
+    "1W",
+    "1M",
+    "1Y"
+  ],
+  "reanalyzed_at": "2026-08-26T14:50:18.128086",
+  "reanalysis_mode": "LOCAL_OHLCV_ONLY"
+}

@@ -1,0 +1,11 @@
+{
+  "pid": 13788,
+  "mode": "PAPER",
+  "symbol": null,
+  "scope": "VN100",
+  "target_type": "SCOPE",
+  "fixed_buy_quantity": 500,
+  "interval_minutes": 15,
+  "started_at": 1788486247.5582695,
+  "token": "6cb0d166f37ceedfbcaf3c06aaddc20d"
+}

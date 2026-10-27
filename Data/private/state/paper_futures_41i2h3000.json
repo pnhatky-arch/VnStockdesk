@@ -1,0 +1,34 @@
+{
+  "balance_vnd": 989289999.9999999,
+  "side": "FLAT",
+  "quantity": 0,
+  "entry_price": 0.0,
+  "last_price": 1852.0,
+  "stop_loss": null,
+  "target": null,
+  "target_2": null,
+  "target_1_done": false,
+  "orders": [
+    {
+      "time": "2026-08-25T02:42:13.342478+00:00",
+      "action": "OPEN_LONG",
+      "quantity": 9,
+      "price": 1863.9,
+      "reason": "AUTO_CONFIRMED_15M",
+      "status": "FILLED"
+    },
+    {
+      "time": "2026-08-25T06:23:26.069611+00:00",
+      "action": "CLOSE_LONG",
+      "quantity": 9,
+      "price": 1852.0,
+      "pnl_vnd": -10710000,
+      "reason": "STOP_LOSS",
+      "status": "FILLED"
+    }
+  ],
+  "day": "2026-08-25",
+  "day_start_equity_vnd": 1000000000.0,
+  "trades_today": 1,
+  "capital_adjustments": []
+}

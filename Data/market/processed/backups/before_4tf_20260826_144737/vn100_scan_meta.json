@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-08-22T12:44:45.877385",
+  "universe": 100,
+  "analyzed": 100,
+  "errors": 0,
+  "duration_seconds": 1263.3,
+  "refresh": false,
+  "rescored_at": "2026-08-23T08:37:40.938770",
+  "engine_version": "PRO_DECISION_V3",
+  "quality_counts": {
+    "GOOD": 100
+  }
+}
